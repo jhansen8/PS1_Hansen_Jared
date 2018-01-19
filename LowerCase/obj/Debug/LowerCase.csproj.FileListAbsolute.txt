@@ -1,0 +1,7 @@
+C:\Users\jared\Documents\UofU Spring 2018\CS 3500\PS1_Hansen_Jared\LowerCase\bin\Debug\LowerCase.exe.config
+C:\Users\jared\Documents\UofU Spring 2018\CS 3500\PS1_Hansen_Jared\LowerCase\bin\Debug\LowerCase.exe
+C:\Users\jared\Documents\UofU Spring 2018\CS 3500\PS1_Hansen_Jared\LowerCase\bin\Debug\LowerCase.pdb
+C:\Users\jared\Documents\UofU Spring 2018\CS 3500\PS1_Hansen_Jared\LowerCase\obj\Debug\LowerCase.csprojResolveAssemblyReference.cache
+C:\Users\jared\Documents\UofU Spring 2018\CS 3500\PS1_Hansen_Jared\LowerCase\obj\Debug\LowerCase.csproj.CoreCompileInputs.cache
+C:\Users\jared\Documents\UofU Spring 2018\CS 3500\PS1_Hansen_Jared\LowerCase\obj\Debug\LowerCase.exe
+C:\Users\jared\Documents\UofU Spring 2018\CS 3500\PS1_Hansen_Jared\LowerCase\obj\Debug\LowerCase.pdb
