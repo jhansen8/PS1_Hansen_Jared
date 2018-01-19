@@ -4,3 +4,4 @@ C:\Users\jared\Documents\UofU Spring 2018\CS 3500\PS1_Hansen_Jared\Palindrome\bi
 C:\Users\jared\Documents\UofU Spring 2018\CS 3500\PS1_Hansen_Jared\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
 C:\Users\jared\Documents\UofU Spring 2018\CS 3500\PS1_Hansen_Jared\Palindrome\obj\Debug\Palindrome.exe
 C:\Users\jared\Documents\UofU Spring 2018\CS 3500\PS1_Hansen_Jared\Palindrome\obj\Debug\Palindrome.pdb
+C:\Users\jared\Documents\UofU Spring 2018\CS 3500\PS1_Hansen_Jared\Palindrome\obj\Debug\Palindrome.csprojResolveAssemblyReference.cache

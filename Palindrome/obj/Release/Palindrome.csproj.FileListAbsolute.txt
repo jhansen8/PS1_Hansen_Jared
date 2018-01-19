@@ -1,0 +1,6 @@
+C:\Users\jared\Documents\UofU Spring 2018\CS 3500\PS1_Hansen_Jared\Palindrome\bin\Release\Palindrome.exe.config
+C:\Users\jared\Documents\UofU Spring 2018\CS 3500\PS1_Hansen_Jared\Palindrome\bin\Release\Palindrome.exe
+C:\Users\jared\Documents\UofU Spring 2018\CS 3500\PS1_Hansen_Jared\Palindrome\bin\Release\Palindrome.pdb
+C:\Users\jared\Documents\UofU Spring 2018\CS 3500\PS1_Hansen_Jared\Palindrome\obj\Release\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\jared\Documents\UofU Spring 2018\CS 3500\PS1_Hansen_Jared\Palindrome\obj\Release\Palindrome.exe
+C:\Users\jared\Documents\UofU Spring 2018\CS 3500\PS1_Hansen_Jared\Palindrome\obj\Release\Palindrome.pdb

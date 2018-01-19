@@ -1,0 +1,6 @@
+C:\Users\jared\Documents\UofU Spring 2018\CS 3500\PS1_Hansen_Jared\Format\bin\Release\Format.exe.config
+C:\Users\jared\Documents\UofU Spring 2018\CS 3500\PS1_Hansen_Jared\Format\bin\Release\Format.exe
+C:\Users\jared\Documents\UofU Spring 2018\CS 3500\PS1_Hansen_Jared\Format\bin\Release\Format.pdb
+C:\Users\jared\Documents\UofU Spring 2018\CS 3500\PS1_Hansen_Jared\Format\obj\Release\Format.csproj.CoreCompileInputs.cache
+C:\Users\jared\Documents\UofU Spring 2018\CS 3500\PS1_Hansen_Jared\Format\obj\Release\Format.exe
+C:\Users\jared\Documents\UofU Spring 2018\CS 3500\PS1_Hansen_Jared\Format\obj\Release\Format.pdb
